@@ -603,6 +603,11 @@ li {
 .workText2 a{
     text-align: left;
 }
+.workText3 h3,h5{
+    padding-right: 30px;
+    padding-left: 30px;
+    text-align: center;
+}
 
 
 
