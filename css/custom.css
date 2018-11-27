@@ -608,6 +608,20 @@ li {
     padding-left: 30px;
     text-align: center;
 }
+.boldTag p{
+    font-family: 'Helvetica';
+    font-weight: bold;
+    font-size: 15px;
+}
+.tag p{
+    font-family: 'Helvetica';
+    font-size: 15px;
+    color:gray;
+}
+.noIndent p{
+    padding-left: 10px;
+    font-size:15px;
+}
 
 
 
