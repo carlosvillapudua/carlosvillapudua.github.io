@@ -583,10 +583,16 @@ li {
     text-align: left;
     color: gray;
 }
-.link a{
+.OrangeLink a{
    font-family: 'Georgia';
    font-size: 15px;
    color: orange; 
+}
+
+.VectorLink a{
+   font-family: 'Georgia';
+   font-size: 15px;
+   color: deepskyblue; 
 }
 
 .workText2 p{
